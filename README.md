@@ -1,1 +1,2 @@
-pip install pillow
+pillow
+arabic_reshaper
